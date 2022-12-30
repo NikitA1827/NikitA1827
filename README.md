@@ -11,11 +11,11 @@
  
  <br><br>
  
-- 🌱 I’m currently learning **Java | Hibernate | SpringBoot | AWS**
+- 🌱 I’m currently learning **React | Redux | Javascript | node.js**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **rakshikakadu@gmail.com**
+- 📫 How to reach me **nikuu1999@gmail.com**
 
 
 
