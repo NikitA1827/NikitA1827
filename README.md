@@ -5,9 +5,9 @@
 
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita1827" alt="rakshikakadu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita1827" alt="nikita1827" /></a> </p>
 
- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
+ <img src="" alt="Coding" width="500px" align="right"  />
  
  <br><br>
  
