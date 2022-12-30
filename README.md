@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita Sonwane</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita1827&label=Profile%20views&color=0e75b6&style=flat" alt="nikita1827" /> </p>
-<!-- <img src="https://1jpbifjq6sjdx.cdn.shift8web.ca/wp-content/uploads/2020/06/java-development-services.jpg" alt="Coding" width="1000px" height="400px" align="center" /> -->
+<img src="https://1jpbifjq6sjdx.cdn.shift8web.ca/wp-content/uploads/2020/06/java-development-services.jpg" alt="Coding" width="1000px" height="400px" align="center" />
 
 
-<!-- <br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita1827" alt="rakshikakadu" /></a> </p>
 
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
@@ -69,4 +69,4 @@
 
 
   
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
