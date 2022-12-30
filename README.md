@@ -7,7 +7,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita1827" alt="nikita1827" /></a> </p>
 
- <img src="" alt="Coding" width="500px" align="right"  />
+ <img src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" alt="Coding" width="500px" align="right"  />
  
  <br><br>
  
