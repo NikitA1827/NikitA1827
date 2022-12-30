@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Sonwane</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita1827&label=Profile%20views&color=0e75b6&style=flat" alt="nikita1827" /> </p>
-<img src="" alt="Coding" width="1000px" height="400px" align="center" />
+<img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2018/10/Blog_Full-stack-dev.jpg" alt="Coding" width="1000px" height="400px" align="center" />
 
 
 <br>
