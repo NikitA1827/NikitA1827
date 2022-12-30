@@ -57,14 +57,14 @@
 
 
   
-   <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-          <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+   <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita1827&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+          <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=nikita1827&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
   
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshikakadu" height="260px" width="25%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita1827&theme=radical&langs_count=8" alt="nikita1827" height="260px" width="25%" />
  
  
 
