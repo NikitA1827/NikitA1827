@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rakshika Kadu</h1>
-<h3 align="center">Aspiring java Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Nikita Sonwane</h1>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshikakadu&label=Profile%20views&color=0e75b6&style=flat" alt="rakshikakadu" /> </p>
 <img src="https://1jpbifjq6sjdx.cdn.shift8web.ca/wp-content/uploads/2020/06/java-development-services.jpg" alt="Coding" width="1000px" height="400px" align="center" />
 
