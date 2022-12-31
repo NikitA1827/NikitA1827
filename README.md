@@ -39,7 +39,7 @@
 <img alt="npm" src="https://img.shields.io/badge/NPM-323330.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 
 
-<img alt="Java" src="https://img.shields.io/badge/JAVA-F7B93E?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
+<!-- <img alt="Java" src="https://img.shields.io/badge/JAVA-F7B93E?style=for-the-badge&logo=java&logoColor=white" height="25px"/> -->
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 
 
@@ -47,9 +47,9 @@
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 
-<img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
+<!-- <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
 <img alt="Sb" src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=Springboot&logoColor=white" height="25px"/>
-<img alt="Hybernate" src="https://img.shields.io/badge/Hybernate-323330?style=for-the-badge&logo=Hybernate&logoColor=F7DF1E"  height="25px"/>
+<img alt="Hybernate" src="https://img.shields.io/badge/Hybernate-323330?style=for-the-badge&logo=Hybernate&logoColor=F7DF1E"  height="25px"/> -->
 </p>
 
 
