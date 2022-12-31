@@ -23,10 +23,10 @@
 <p align="left" style="display="flex" ">
 
 <a href="https://www.linkedin.com/in/nikita-sonwane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikita Sonwane" height="30" width="40" /></a>
- <h3>LinkedIn</h3>
+ <h4>LinkedIn</h4>
  
  <a href="https://nikita1827.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnlUSvwUNWJpC3r3cIrEAOewnnQi0yAdYaQ&usqp=CAU" alt="Nikita Sonwane" height="30" width="40" /></a>
- <h3>Portfolio</h3>
+ <h4>Portfolio</h4>
 
 
 </p>
