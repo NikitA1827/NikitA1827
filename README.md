@@ -60,7 +60,7 @@
 
   
    <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita1827&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-          <img align="center" height="165em" width="80%" src="https://github-readme-stats.vercel.app/api?username=nikita1827&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+          <img align="center" height="165em"  src="https://github-readme-stats.vercel.app/api?username=nikita1827&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
