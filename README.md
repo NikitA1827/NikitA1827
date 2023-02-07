@@ -54,7 +54,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita1827&show_icons=true&locale=en&layout=compact" alt="nikita1827" />
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita1827&show_icons=true&locale=en&layout=compact" alt="nikita1827" />
 
 
 
