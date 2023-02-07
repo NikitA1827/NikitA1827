@@ -66,7 +66,7 @@
 
   
 
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita1827&theme=radical&langs_count=8" alt="nikita1827" height="260px" width="25%" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita1827&theme=radical&langs_count=8" alt="nikita1827" height="260px" width="50%" />
   -->
  
 
